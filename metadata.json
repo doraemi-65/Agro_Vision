@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AgroVision",
+  "description": "An AI-powered smart agriculture assistant for farmers featuring crop disease detection, expert consultation, and government scheme information.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
